@@ -28,5 +28,7 @@ O sistema simula uma empresa com **funcionários** e **departamentos**, usando o
 
 ---
 
-## 📌 Objetivo
+## 
+
+📌 Objetivo
 - Praticar a estruturação de sistemas simulando o mundo real com classes interdependentes, favorecendo o raciocínio lógico e a modelagem de dados via objetos.
